@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/alsanchez-dev/test-pwa/static/css/main.94e8dc10.chunk.css",
+    "main.js": "/alsanchez-dev/test-pwa/static/js/main.1b3664b4.chunk.js",
+    "main.js.map": "/alsanchez-dev/test-pwa/static/js/main.1b3664b4.chunk.js.map",
+    "runtime-main.js": "/alsanchez-dev/test-pwa/static/js/runtime-main.ec2a8b4d.js",
+    "runtime-main.js.map": "/alsanchez-dev/test-pwa/static/js/runtime-main.ec2a8b4d.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/alsanchez-dev/test-pwa/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.417b55d0.chunk.js": "/alsanchez-dev/test-pwa/static/js/2.417b55d0.chunk.js",
+    "static/js/2.417b55d0.chunk.js.map": "/alsanchez-dev/test-pwa/static/js/2.417b55d0.chunk.js.map",
+    "index.html": "/alsanchez-dev/test-pwa/index.html",
+    "precache-manifest.737d4bf9de403552a892179be24a3dd9.js": "/alsanchez-dev/test-pwa/precache-manifest.737d4bf9de403552a892179be24a3dd9.js",
+    "service-worker.js": "/alsanchez-dev/test-pwa/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/alsanchez-dev/test-pwa/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.94e8dc10.chunk.css.map": "/alsanchez-dev/test-pwa/static/css/main.94e8dc10.chunk.css.map",
+    "static/js/2.417b55d0.chunk.js.LICENSE.txt": "/alsanchez-dev/test-pwa/static/js/2.417b55d0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/alsanchez-dev/test-pwa/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec2a8b4d.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.417b55d0.chunk.js",
+    "static/css/main.94e8dc10.chunk.css",
+    "static/js/main.1b3664b4.chunk.js"
+  ]
+}
